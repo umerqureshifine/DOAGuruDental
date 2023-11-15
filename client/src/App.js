@@ -40,6 +40,7 @@ function App() {
     <Route path='/lab' Component={LabSection}/>
     <Route path='/report' Component={ReportSection}/>
     <Route path='/new_patient' Component={NewPatient}/>
+    
    </Routes>
       
       </div>
